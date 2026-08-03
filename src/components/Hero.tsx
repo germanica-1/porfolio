@@ -109,7 +109,7 @@ export function Hero() {
               </div>
 
               {/* Main heading */}
-              <div className="space-y-3">:
+              <div className="space-y-3">
                 <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight text-balance">
                   Hi, I'm{" "}
                   <span
