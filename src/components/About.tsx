@@ -87,7 +87,7 @@ export function About() {
                 style={{ border: "2px solid rgba(88,166,255,0.3)" }}
               >
                 <img
-                  src="/profile.png"
+                  src={`${import.meta.env.BASE_URL}profile.png`}
                   alt="Kirvy Gian Perez"
                   className="w-full h-full object-cover"
                 />
