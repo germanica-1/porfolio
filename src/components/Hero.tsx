@@ -170,7 +170,7 @@ export function Hero() {
                   </div>
                 </a>
                 <a
-                  href="/CV.pdf"
+                  href={`${import.meta.env.BASE_URL}CV.pdf`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group flex items-center gap-2 text-muted-foreground hover:text-foreground transition-colors"
