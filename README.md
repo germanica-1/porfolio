@@ -4,7 +4,7 @@ My personal portfolio showcasing my projects, technical skills, and experience a
 
 ## Live Demo
 
-**Website:** https://germanica-1.github.io/portfolio/
+**Website:** https://germanica-1.github.io
 
 ---
 
