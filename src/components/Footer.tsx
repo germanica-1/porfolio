@@ -42,7 +42,7 @@ export function Footer() {
         <div className="mt-6 pt-6 border-t border-border text-center">
           <p className="font-mono text-xs text-muted-foreground/60">
             <span className="text-[#3FB950]">✓</span> Open to work ·{" "}
-            <span className="text-[#58A6FF]">kirvyatbusiness@gmail.com</span>
+            <span className="text-[#58A6FF]">kirvyatbusiness@gmail2.com</span>
           </p>
         </div>
       </div>

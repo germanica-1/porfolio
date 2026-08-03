@@ -109,7 +109,7 @@ export function Hero() {
               </div>
 
               {/* Main heading */}
-              <div className="space-y-3">
+              <div className="space-y-3">:
                 <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight text-balance">
                   Hi, I'm{" "}
                   <span
@@ -136,7 +136,7 @@ export function Hero() {
 
               {/* Description */}
               <p className="text-muted-foreground leading-relaxed text-base sm:text-lg max-w-xl">
-                I build systems that don't go boom—creating reliable software that helps businesses automate workflows and solve real-world problems.
+                I build systems that streamlines your process—creating reliable software that helps businesses automate workflows and solve real-world problems.
               </p>
 
               {/* Buttons */}
