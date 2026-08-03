@@ -12,8 +12,8 @@ const contactLinks = [
   {
     icon: <Mail className="w-5 h-5" />,
     label: "Email",
-    value: "kirvyatbusiness@gmail.com",
-    href: "mailto:kirvyatbusiness@gmail.com",
+    value: "kirvyatbusiness2@gmail.com",
+    href: "mailto:kirvyatbusiness2@gmail.com",
     color: "#58A6FF",
   },
   {
